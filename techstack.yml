@@ -1,0 +1,178 @@
+repo_name: oeh77/LearnBioconductor
+report_id: d70be917d0adb4a6146224eef6370c0e
+version: 0.1
+repo_type: Public
+timestamp: '2024-03-28T02:38:59+00:00'
+requested_by: LiNk-NY
+provider: github
+branch: devel
+detected_tools_count: 14
+tools:
+- name: R Language
+  description: A language and environment for statistical computing and graphics
+  website_url: http://www.r-project.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1213/r-logo.png
+  detection_source_url: https://github.com/oeh77/LearnBioconductor
+  detection_source: Repo Metadata
+- name: ggplot2
+  description: A data visualization package for the statistical programming language
+    R
+  website_url: https://ggplot2.tidyverse.org/
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Charting Libraries
+  image_url: https://img.stackshare.io/service/6560/New_Project__90_.png
+  detection_source_url: https://github.com/oeh77/LearnBioconductor/blob/devel/DESCRIPTION
+  detection_source: DESCRIPTION
+  last_updated_by: Martin Morgan
+  last_updated_on: 2014-10-27 02:13:55.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/oeh77/LearnBioconductor
+  detection_source: Repo Metadata
+- name: Fission
+  description: Serverless Functions as a Service for Kubernetes
+  website_url: http://fission.io/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Serverless / Task Processing
+  image_url: https://img.stackshare.io/service/6448/ongxC1Rl.jpg
+  detection_source_url: https://github.com/oeh77/LearnBioconductor/blob/devel/DESCRIPTION
+  detection_source: DESCRIPTION
+  last_updated_by: Martin Morgan
+  last_updated_on: 2014-10-29 14:35:20.000000000 Z
+- name: PoiClaClu
+  description: |-
+    Classification and Clustering of Sequencing Data Based on a
+    Poisson Model
+  package_url: https://cran.r-project.org/PoiClaClu
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/oeh77/LearnBioconductor/blob/devel/DESCRIPTION
+  detection_source: DESCRIPTION
+  last_updated_by: dtenenba
+  last_updated_on: 2014-10-27 05:55:26.000000000 Z
+- name: RColorBrewer
+  description: ColorBrewer Palettes
+  package_url: https://cran.r-project.org/RColorBrewer
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/oeh77/LearnBioconductor/blob/devel/DESCRIPTION
+  detection_source: DESCRIPTION
+  last_updated_by: Martin Morgan
+  last_updated_on: 2014-10-27 02:13:55.000000000 Z
+- name: class
+  description: Functions for Classification
+  package_url: https://cran.r-project.org/class
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/oeh77/LearnBioconductor/blob/devel/DESCRIPTION
+  detection_source: DESCRIPTION
+  last_updated_by: Martin Morgan
+  last_updated_on: 2014-10-27 02:13:55.000000000 Z
+- name: dendextend
+  description: Extending 'dendrogram' Functionality in R
+  package_url: https://cran.r-project.org/dendextend
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/oeh77/LearnBioconductor/blob/devel/DESCRIPTION
+  detection_source: DESCRIPTION
+  last_updated_by: Martin Morgan
+  last_updated_on: 2014-10-27 02:13:55.000000000 Z
+- name: e1071
+  description: Misc Functions of the Department of Statistics
+  package_url: https://cran.r-project.org/e1071
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/oeh77/LearnBioconductor/blob/devel/DESCRIPTION
+  detection_source: DESCRIPTION
+  last_updated_by: dtenenba
+  last_updated_on: 2014-10-27 05:55:26.000000000 Z
+- name: ggplot2
+  description: Create Elegant Data Visualisations Using the Grammar of Graphics
+  package_url: https://cran.r-project.org/ggplot2
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/oeh77/LearnBioconductor/blob/devel/DESCRIPTION
+  detection_source: DESCRIPTION
+  last_updated_by: Martin Morgan
+  last_updated_on: 2014-10-27 02:13:55.000000000 Z
+- name: gplots
+  description: Various R Programming Tools for Plotting Data
+  package_url: https://cran.r-project.org/gplots
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/oeh77/LearnBioconductor/blob/devel/DESCRIPTION
+  detection_source: DESCRIPTION
+  last_updated_by: Martin Morgan
+  last_updated_on: 2014-10-27 02:13:55.000000000 Z
+- name: kernlab
+  description: Kernel-Based Machine Learning Lab
+  package_url: https://cran.r-project.org/kernlab
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/oeh77/LearnBioconductor/blob/devel/DESCRIPTION
+  detection_source: DESCRIPTION
+  last_updated_by: dtenenba
+  last_updated_on: 2014-10-27 05:55:26.000000000 Z
+- name: knitr
+  description: A General-Purpose Package for Dynamic Report Generation in R
+  package_url: https://cran.r-project.org/knitr
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/oeh77/LearnBioconductor/blob/devel/DESCRIPTION
+  detection_source: DESCRIPTION
+  last_updated_by: Martin Morgan
+  last_updated_on: 2014-10-27 02:13:55.000000000 Z
+- name: xtable
+  description: Export Tables to LaTeX or HTML
+  package_url: https://cran.r-project.org/xtable
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/oeh77/LearnBioconductor/blob/devel/DESCRIPTION
+  detection_source: DESCRIPTION
+  last_updated_by: dtenenba
+  last_updated_on: 2014-10-27 05:55:26.000000000 Z
